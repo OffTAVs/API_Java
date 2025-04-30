@@ -14,7 +14,13 @@ Esta é uma API RESTful desenvolvida em Java com o objetivo de gerenciar dados d
 - Swagger UI (para documentação e testes)  
 
 ## 📂 Estrutura do Projeto
-src/ ├── controller # Define os endpoints da API ├── model # Entidades JPA (Aluno, Professor, Turma) ├── repository # Interfaces para acesso ao banco ├── service # Regras de negócio └── Application.java # Classe principal
+src/
+├── controller        # Define os endpoints da API
+├── model             # Entidades JPA (Aluno, Professor, Turma)
+├── repository        # Interfaces para acesso ao banco
+├── service           # Regras de negócio
+└── Application.java  # Classe principal
+
 
 ## 📌 Funcionalidades
 
